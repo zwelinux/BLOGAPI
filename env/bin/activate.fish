@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/zwelinux/Desktop/pjs/EDQA/Tweetie/env"
+set -gx VIRTUAL_ENV "/Users/zwelinux/Projects/current_pjs/EDQA/BLOGAPI/env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

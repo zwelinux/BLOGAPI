@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/zwelinux/Desktop/pjs/EDQA/Tweetie/env"
+VIRTUAL_ENV="/Users/zwelinux/Projects/current_pjs/EDQA/BLOGAPI/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

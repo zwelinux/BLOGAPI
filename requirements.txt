@@ -1,14 +1,13 @@
--f /usr/share/pip-wheels
-certifi==2018.10.15
-chardet==3.0.4
-Django==2.2.6
-django-ckeditor==6.1.0
-django-crispy-forms==1.7.2
-django-js-asset==1.2.2
-djangorestframework==3.10.3
-idna==2.7
+certifi
+chardet
+Django
+django-ckeditor
+django-crispy-forms
+django-js-asset
+djangorestframework
+idna
 Pillow
-pytz==2018.5
-requests==2.19.1
-sqlparse==0.3.0
-urllib3==1.23
+pytz
+requests
+sqlparse
+urllib3
